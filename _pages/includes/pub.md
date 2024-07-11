@@ -17,7 +17,7 @@ Fangwei Zhong, Kui Wu, Hai Ci, **Churan Wang**, Hao Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/publication/icml24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/publication/miccai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cross-Dimensional Medical Self-Supervised Representation Learning Based on a Pseudo-3D Transformation**
@@ -31,7 +31,7 @@ Fei Gao, Siwen Wang, Fandong Zhang, Hong-Yu Zhou, Yizhou Wang, **Churan Wang&#x2
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/publication/miccai2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2024</div><img src='images/publication/ISBI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Semi-and Weakly-Supervised Learning for Mammogram Mass Segmentation with Limited Annotations**
