@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fangwei Zhong"
+title                    : "Churan Wang"
 description              : "Postdoctoral Researcher, Peking University"
-repository               : "zfw1226/zfw1226.github.io"
+repository               : "Michelleranran/churanwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  G-2N0TTWK4D3 # get v from https://analytics.google.com/analytics/
+google_analytics_id      :   # get v from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fangwei Zhong"
+  name             : "Churan Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "钟方威"
+  bio              : "王楚然"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ejDz1bYAAAAJ&hl"
-  email            : "zfw@pku.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Fangwei-Zhong" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=4RdRM8UAAAAJ"
+  email            : "churanwang@pku.edu.cn"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zfw1226" # e.g., "github username"
+  github           : "Michelleranran" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
