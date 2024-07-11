@@ -13,22 +13,21 @@
 
 [Project](https://sites.google.com/view/offline-evt), 
 [Paper](https://arxiv.org/pdf/2404.09857)
-- Significantly improved the training efficiency and generalization of embodied visual tracking with visual foundation models and offline RL.
+- Significantly enhanced the understanding and adaptive capabilities of systems in dynamic environments with visual foundation models and offline RL.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/publication/icml24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Fast Peer Adaptation with Context-aware Exploration**
+**Cross-Dimensional Medical Self-Supervised Representation Learning Based on a Pseudo-3D Transformation**
 
-Long Ma, Yuanfei Wang, **Fangwei Zhong&#x2709;**, Song-Chun Zhu, Yizhou Wang
+Fei Gao, Siwen Wang, Fandong Zhang, Hong-Yu Zhou, Yizhou Wang, **Churan Wang&#x2709;**, Gang Yu&#x2709;, Yizhou Yu&#x2709;
 
-***International Conference on Machine Learning (ICML), 2024***
+***Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024***
 
-[Project](https://sites.google.com/view/peer-adaptation), 
-[Paper](https://arxiv.org/pdf/2402.02468)
-- Learn a context-aware policy with a peer identification reward to effectively explore and quickly adapt to unknown peers. 
+[Paper](https://arxiv.org/abs/2406.00947)
+- Integrate 2D and 3D medical imaging data through a pseudo-3D transformation, enhancing the efficiency and effectiveness of SSL for 3D medical image analysis and demonstrating superior performance across various downstream tasks.
 </div>
 </div>
 
