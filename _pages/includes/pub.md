@@ -31,7 +31,7 @@ Fei Gao, Siwen Wang, Fandong Zhang, Hong-Yu Zhou, Yizhou Wang, **Churan Wang&#x2
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/miccai2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/publication/miccai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Semi-and Weakly-Supervised Learning for Mammogram Mass Segmentation with Limited Annotations**
@@ -45,7 +45,7 @@ Xinyu Xiong, **Churan Wang&#x2709;**, Wenxue Li, Guanbin Li&#x2709;
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publication/ISBI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2024</div><img src='images/publication/ISBI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GFPose: Learning 3D Human Pose Prior with Gradient Fields**
