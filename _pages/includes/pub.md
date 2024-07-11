@@ -45,7 +45,7 @@ Xinyu Xiong, **Churan Wang&#x2709;**, Wenxue Li, Guanbin Li&#x2709;
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publication/cvpr23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publication/ISBI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GFPose: Learning 3D Human Pose Prior with Gradient Fields**
