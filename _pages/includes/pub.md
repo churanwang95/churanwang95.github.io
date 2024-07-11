@@ -1,4 +1,4 @@
-# 📝 Publications 
+# 📝 Selected Publications 
 
 \* : co-first author, &#x2709; : corresponding author
 
@@ -31,17 +31,17 @@ Fei Gao, Siwen Wang, Fandong Zhang, Hong-Yu Zhou, Yizhou Wang, **Churan Wang&#x2
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/ral23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/miccai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation**
+**Semi-and Weakly-Supervised Learning for Mammogram Mass Segmentation with Limited Annotations**
 
-Hongcheng Wang\*, Yuxuan Wang\*, **Fangwei Zhong**, Mingdong Wu, Yizhou Wang, Jianwei Zhang, Hao Dong
+Xinyu Xiong, **Churan Wang&#x2709;**, Wenxue Li, Guanbin Li&#x2709;
 
-***IEEE Robotics and Automation Letters (RA-L), 2023***
+***IEEE International Symposium on Biomedical Imaging (ISBI), 2024***
 
-[Paper](https://arxiv.org/abs/2304.10773), [Demo](https://www.youtube.com/watch?v=cbNHeKjo3k4)
-- A brain-inspired plug-and-play method to learn a semantic-agnostic and spatial-aware representation for generalizable visual-audio navigation.
+[Paper](https://arxiv.org/abs/2403.09315)
+- Present a semi- and weakly-supervised learning framework for breast mass segmentation that effectively addresses the challenge of identifying small, camouflaged masses in breast cancer diagnosis and the high cost of pixel-wise annotations.
 </div>
 </div>
 
