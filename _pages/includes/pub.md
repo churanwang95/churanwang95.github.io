@@ -7,7 +7,7 @@
 
 **Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL**
 
-**Fangwei Zhong**, Kui Wu, Hai Ci, Churan Wang, Hao Chen
+Fangwei Zhong, Kui Wu, Hai Ci, **Churan Wang**, Hao Chen
 
 ***The 18th European Conference on Computer Vision (ECCV), 2024***
 
