@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as Boya Postdoctoral Researcher at Peking University with Prof. [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/).
-Before that, I received Ph.D in Computer Science from EECS, Peking University, supervised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm), and received B.Sc in Communication Engineering from Beijing Jiaotong University.
+I am currently working as Postdoctoral Researcher at Peking University with Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm).
+Before that, I received Ph.D in Data Science from Academy for Advanced Interdisciplinary Studies, Peking University, supervised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm).
 
-My current research interests are robot learning, multi-agent learning, and computer vision, particularly in building embodied agents with physical and social common sense.
+My research interests lie in the area of artificial intelligence for medical image diagnosis. My research goal is to design cognitive-inspired medical image diagnostics algorithms, including clinical prior modeling and causal inference and develop efficient, effective, truthful, and robust AI-assistant medical image diagnostics systems.
+
 
 {% include_relative includes/news.md %}
 
