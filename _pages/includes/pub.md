@@ -30,6 +30,20 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/publication/miccai2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dae-gcn: Identifying Disease-related Features for Disease Prediction**
+
+**Churan Wang**, Xinwei Sun, Fandong Zhang, Yizhou Yu, Yizhou Wang
+
+***Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021***
+
+[Paper](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_5)
+- Learning disease-related representations in medical images by integrating a disentangling mechanism with graph convolutional network, which significantly enhances the performance and interpretability of cancer diagnosis.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/publication/icml22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,6 +55,34 @@ Chu-Ran Wang, Fei Gao, Fandong Zhang, **Fangwei Zhong&#x2709;**, Yizhou Yu, Yizh
 
 [Paper](https://proceedings.mlr.press/v162/wang22f/wang22f.pdf)
 - A disentanglement learning strategy under the guidance of alpha blending generation in an encoder-decoder framework (DAB-Net).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCM 2022</div><img src='images/publication/jcm2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Prediction of Carotid In-Stent Restenosis by Computed Tomography Angiography Carotid Plaque-Based Radiomics**
+
+Xiaoqing Cheng, Zheng Dong, Jia Liu, Hongxia Li, Changsheng Zhou, Fandong Zhang, **Churan Wang**, Zhiqiang Zhang, Guangming Lu
+
+***Journal of Clinical Medicine (JCM), 2022***
+
+[Paper](https://www.mdpi.com/2077-0383/11/11/3234)
+- Retrospectively analyze clinical imaging data to identify independent predictors of in-stent restenosis following carotid artery stenting, demonstrating that a combination of traditional plaque characteristics and radiomic features provides the highest predictive accuracy for post-procedure outcomes.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/iclr2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning Domain-agnostic Representation for Disease Diagnosis**
+
+**Churan Wang**, Jing Li, Xinwei Sun, Fandong Zhang, Yizhou Yu, Yizhou Wang
+
+***The Eleventh International Conference on Learning Representations (ICLR), 2023***
+
+[Paper](https://openreview.net/forum?id=-HHJZlRpGb)
+- Disentangle disease-related features from center-effects, enhancing robustness in multi-center image-based diagnosis.
 </div>
 </div>
 
