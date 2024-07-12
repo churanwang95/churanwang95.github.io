@@ -49,7 +49,7 @@
 
 **Disentangling Disease-related Representation from Obscure for Disease Prediction**
 
-Chu-Ran Wang, Fei Gao, Fandong Zhang, **Fangwei Zhong&#x2709;**, Yizhou Yu, Yizhou Wang
+**Churan Wang**, Fei Gao, Fandong Zhang, Fangwei Zhong, Yizhou Yu, Yizhou Wang
 
 ***International Conference on Machine Learning (ICML), 2022***
 
