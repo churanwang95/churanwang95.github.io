@@ -72,7 +72,7 @@ Xiaoqing Cheng, Zheng Dong, Jia Liu, Hongxia Li, Changsheng Zhou, Fandong Zhang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/iclr2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/iclr2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning Domain-agnostic Representation for Disease Diagnosis**
