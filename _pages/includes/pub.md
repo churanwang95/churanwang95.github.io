@@ -21,7 +21,7 @@
 
 **Bilateral Asymmetry Guided Counterfactual Generating Network for Mammogram Classification**
 
-**Churan Wang***, Jing Li/*, Fandong Zhang, Xinwei Sun, Hao Dong, Yizhou Yu, Yizhou Wang
+**Churan Wang\***, Jing Li\*, Fandong Zhang, Xinwei Sun, Hao Dong, Yizhou Yu, Yizhou Wang
 
 ***IEEE Transactions on Image Processing (TIP), 2021***
 
