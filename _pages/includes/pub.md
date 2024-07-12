@@ -12,7 +12,7 @@
 ***Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020***
 
 [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_63)
-- Leverage the bilateral symmetry prior and employ a residual-preserved mechanism with CycleGAN framework to generate healthy mammogram features for malignancy classification.
+- Propose a residual-preserved mechanism with CycleGAN framework based on the bilateral symmetry prior to generate healthy mammogram features for malignancy classification.
 </div>
 </div>
 
