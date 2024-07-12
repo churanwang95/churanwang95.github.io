@@ -16,6 +16,20 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2021</div><img src='images/publication/tip2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bilateral Asymmetry Guided Counterfactual Generating Network for Mammogram Classification**
+
+**Churan Wang***, Jing Li/*, Fandong Zhang, Xinwei Sun, Hao Dong, Yizhou Yu, Yizhou Wang
+
+***IEEE Transactions on Image Processing (TIP), 2021***
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/9540781)
+- Introduce a counterfactual generative network leveraging the bilateral symmetry prior to enhance mammogram diagnosis performance.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/publication/icml22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
