@@ -1,15 +1,5 @@
 # 🔥 News
-- *2024.07* &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2404.09857) about Embodied Visual Tracking was accepted by ECCV'24.
-- *2024.05* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2402.02468) about Peer Adaption was accepted by ICML'24.
-- *2024.01* &nbsp;🎉🎉 One [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437059) about Heterogeneous Multi-agent Cooperation was accepted by Neural Networks.
-- *2023.12* &nbsp;🎉🎉 One [paper](https://drive.google.com/file/d/18MTVr8_vGrTrNStbF7GsoluVW-tWzuWQ/view) about Adaptive Multi-Agent Systems was accepted by [AAAI 2024 CMASDL Workshop](https://www.is3rlab.org/aaai24-cmasdl-workshop.github.io/).
-- *2023.11*: [Siyuan](https://siyuanqi.github.io/) and I organized a [workshop](https://sites.google.com/view/dai-2023-masce) on Multi-Agent Systems in Complex Environments at [DAI 2023](http://www.adai.ai/dai/2023/index.html).
-- *2023.11*: Guest lecture about Utility at PKU [Cognitive Reasoning](https://yzhu.io/courses/core/), hosted by [Yixin Zhu](https://yzhu.io/).
-- *2023.11*: &nbsp;🎉🎉 One paper about Bimanual Dexterous Manipulation was accepted by [IEEE T-PAMI](https://ieeexplore.ieee.org/abstract/document/10343126).
-- *2023.10*: &nbsp;🎉🎉 Honored to receive the [Tencent Rhino-Bird Outstanding Mentor Award](https://ur.tencent.com/article/1462).
-- *2023.07*: Talk at [ACM TURC 2023 Symposiums (SIGAI China)](https://www.acmturc.com/2023/en/SIGAI_China.html) in Wuhan.
-- *2023.07*: &nbsp;🎉🎉 One [paper](https://github.com/PKU-Alignment/ReDMan) was accepted by Machine Learning (Journal). 
-- *2023.05*: Talk at [CVG group](https://cvg.ethz.ch/) in ETH Zurich (Online).
-- *2023.04*: &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2304.10773) about Visual-audio Navigation was accepted by IEEE RA-L. 
-- *2023.02*: &nbsp;🎉🎉 One [paper]((https://arxiv.org/abs/2212.08641)) about 3D Human Pose Prior was accepted by CVPR'23. 
-- *2023.01*: &nbsp;🎉🎉 One [paper](https://openreview.net/pdf?id=CPIy9TWFYBG) about Proactive Multi-Camera Collaboration was accepted by ICLR'23. 
+- *2024.07* &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2404.09857) about Embodied Cognition was accepted by ECCV'24.
+- *2024.06* &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2406.00947) about Medical Self-Supervised Representation Learning  was accepted by MICCAI'24.
+- *2024.04* &nbsp;🎉🎉 Talk at [NVIDIA "AI Medical Innovation and Application Seminar"] in Shanghai.
+- *2023.05* &nbsp;🎉🎉 One [paper](https://openreview.net/forum?id=-HHJZlRpGb) about Domain-Agnostic Representation Learning was accepted by ICLR'23.
