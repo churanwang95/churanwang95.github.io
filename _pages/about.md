@@ -22,7 +22,7 @@ Before that, I received Ph.D in Data Science from Academy for Advanced Interdisc
 
 My research interests lie in the area of artificial intelligence for medical image diagnosis. My research goal is to design cognitive-inspired medical image diagnostics algorithms, including clinical prior modeling and causal inference and develop efficient, effective, truthful, and robust AI-assistant medical image diagnostics systems. A key aspect of my research methodology is my dedication to understanding and addressing clinicians’ practical needs. I allocate at least 20% of my time to engaging with clinical practitioners, ensuring my work is grounded in real-clinical challenges and informed by frontline insights. This collaboration helps bridge the gap between advanced AI techniques and clinical practice, ensuring the AI systems I develop are sensitive to medical diagnostics’ nuances and seamlessly integrate into clinical workflows to enhance healthcare professionals’ capabilities and ultimately benefit patient care. 
 
-I have developed Breast Imaging Diagnostic Systems, including Intelligent Mammography X-ray Diagnosis System and Intelligent Breast MRI Diagnosis System, which improve the diagnostic accuracy, robustness and efficiency. These systems have been widely deployed in hundreds of hospitals in China and served over a million clinical diagnostic cases.
+I have developed two Breast Imaging Diagnostic Systems, including Intelligent Breast MRI Diagnosis System and Intelligent Mammography X-ray Diagnosis System, which improve the diagnostic accuracy, robustness and efficiency. These systems have been widely deployed in hundreds of hospitals in China and served over a million clinical diagnostic cases.
 
 
 {% include_relative includes/news.md %}
