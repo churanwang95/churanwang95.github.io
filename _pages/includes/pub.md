@@ -16,7 +16,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2021</div><img src='images/publication/tip2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2021</div><img src='images/publication/TIP2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bilateral Asymmetry Guided Counterfactual Generating Network for Mammogram Classification**
