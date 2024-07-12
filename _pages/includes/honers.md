@@ -1,7 +1,10 @@
 # 🎖 Selected Honors and Awards
-- *2023.10* Tencent Rhino-Bird Outstanding Mentor Award.
-- *2021.09* ACM China SIGAI Doctoral Dissertation Award.
-- *2021.06* China National Postdoctoral Program for Innovative Talents.
-- *2021.06* Outstanding Graduate in Peking University and Beijing.
-- *2021.05* Top 10 Outstanding Research Award in the School of EECS, Peking University.
-- *2016.08* The Second Place in DJI RoboMasters Summer Camp Competition (2/10).
+- *2021* Peking University President's Scholarship.
+- *2020* Baosteel Outstanding Student Scholarship.
+- *2020* Merit Student in Peking University.
+- *2018* Peking University Social Work Award.
+- *2017* Outstanding Graduate in Beijing.
+- *2016* Merit Student in Beijing.
+- *2016* Li Siguang Outstanding Student Award (At most 5 undergrads nationwide per year).
+- *2015* China National Scholarship.
+- *2014* China National Scholarship.
