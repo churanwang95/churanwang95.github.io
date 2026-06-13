@@ -128,3 +128,129 @@ Fangwei Zhong, Kui Wu, Hai Ci, **Churan Wang**, Hao Chen
 - Significantly enhanced the understanding and adaptive capabilities of systems in dynamic environments with visual foundation models and offline RL.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/publication/crossseries2024.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Enhanced MRI Representation via Cross-series Masking**
+
+**Churan Wang**, Fei Gao, Lijun Yan, Siwen Wang, Yizhou Yu, Yizhou Wang
+
+***arXiv preprint, 2024***
+
+[Paper](https://arxiv.org/abs/2412.07387)
+- Learn robust MRI representations by masking and integrating complementary information across MRI series, improving multi-series medical image analysis.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/publication/aaai2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Autoregressive Sequence Modeling for 3D Medical Image Representation**
+
+Siwen Wang, **Churan Wang**, Fei Gao, Lixian Su, Fandong Zhang, Yizhou Wang, Yizhou Yu
+
+***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025***
+
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32848), [arXiv](https://arxiv.org/abs/2409.08691)
+- Model 3D medical images as autoregressive sequences to learn general-purpose volumetric representations across organs and imaging modalities.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2025</div><img src='images/publication/isbi2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Clinical Inspired MRI Lesion Segmentation**
+
+Lijun Yan, **Churan Wang**, Fangwei Zhong, Yizhou Wang
+
+***IEEE International Symposium on Biomedical Imaging (ISBI), 2025***
+
+[Paper](https://doi.org/10.1109/ISBI60581.2025.10980803), [arXiv](https://arxiv.org/abs/2502.16032)
+- Introduce a clinically inspired MRI lesion segmentation framework that leverages multi-sequence MRI priors for accurate and consistent lesion delineation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Radiology: Imaging Cancer 2025</div><img src='images/publication/radiology2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Automatic Segmentation and Molecular Subtype Classification of Breast Cancer Using an MRI-based Deep Learning Framework**
+
+Xiaoxia Wang, Xiaofei Hu, **Churan Wang**, Hua Yang, Yan Hu, Xiaosong Lan, Yao Huang, Ying Cao, Lijun Yan, Fandong Zhang, Yizhou Yu, Jiuquan Zhang
+
+***Radiology: Imaging Cancer, 2025***
+
+[Paper](https://doi.org/10.1148/rycan.240184)
+- Develop an MRI-based deep learning framework for automatic breast cancer segmentation and molecular subtype classification.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/publication/hi_evt2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchical Instruction-aware Embodied Visual Tracking**
+
+Kui Wu, Hao Chen, **Churan Wang**, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong
+
+***arXiv preprint, 2025***
+
+[Paper](https://arxiv.org/abs/2505.20710)
+- Study user-centric embodied visual tracking by bridging high-level natural-language instructions and low-level tracking actions with hierarchical instruction-aware policies.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/publication/vlm_evt2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**
+
+Kui Wu, Shuhang Xu, Hao Chen, **Churan Wang**, Zhoujun Li, Yizhou Wang, Fangwei Zhong
+
+***IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025***
+
+[Paper](https://doi.org/10.1109/IROS60139.2025.11246600), [arXiv](https://arxiv.org/abs/2505.20718)
+- Enhance embodied visual tracking by using VLMs as self-improving assistants for failure recovery and policy refinement.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publication/unrealzoo2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UnrealZoo: Enriching Photo-Realistic Virtual Worlds for Embodied AI**
+
+Fangwei Zhong, Kui Wu, **Churan Wang**, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang
+
+***IEEE/CVF International Conference on Computer Vision (ICCV), 2025***
+
+[Paper](https://doi.org/10.1109/ICCV51701.2025.00546)
+- Build rich photo-realistic virtual worlds and assets for scalable embodied AI research and evaluation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L 2026</div><img src='images/publication/adatracker2026.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**
+
+Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, **Churan Wang**, Yizhou Wang, Zhoujun Li, Si Liu, Fangwei Zhong
+
+***IEEE Robotics and Automation Letters (RA-L), 2026***
+
+[Paper](https://doi.org/10.1109/LRA.2026.3692075), [arXiv](https://arxiv.org/abs/2604.20305)
+- Learn an adaptive in-context policy for active visual tracking that generalizes across robot embodiments with different dynamics and constraints.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publication/cgcr2026.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Clinically-Grounded Counterfactual Reasoning for Medical Video Diagnosis**
+
+Jianzhe Gao, **Churan Wang**, Weiyi Zhang, Jianghua Li, Li-An Li, Wenguan Wang, Yixin Zhu, Yizhou Wang
+
+***arXiv preprint, 2026***
+
+[Paper](https://arxiv.org/abs/2605.26483)
+- Introduce clinically grounded counterfactual reasoning for medical video diagnosis, using clinical priors to reason beyond appearance-only end-to-end recognition.
+</div>
+</div>

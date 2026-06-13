@@ -1,5 +1,11 @@
 # 🔥 News
+- *2026.05* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2605.26483) about clinically grounded counterfactual reasoning for medical video diagnosis is available on arXiv.
+- *2026.05* &nbsp;🎉🎉 One [paper](https://doi.org/10.1109/LRA.2026.3692075) about cross-embodiment active visual tracking is available online in IEEE RA-L.
+- *2025.10* &nbsp;🎉🎉 One [paper](https://doi.org/10.1109/ICCV51701.2025.00546) about photo-realistic virtual worlds for Embodied AI was accepted by ICCV'25.
+- *2025.10* &nbsp;🎉🎉 One [paper](https://doi.org/10.1109/IROS60139.2025.11246600) about self-improving VLMs for embodied visual tracking was accepted by IROS'25.
+- *2025.04* &nbsp;🎉🎉 One [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32848) about 3D medical image representation was accepted by AAAI'25.
+- *2025.04* &nbsp;🎉🎉 One [paper](https://doi.org/10.1148/rycan.240184) about breast MRI segmentation and molecular subtype classification was published in Radiology: Imaging Cancer.
 - *2024.07* &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2404.09857) about Embodied Cognition was accepted by ECCV'24.
 - *2024.06* &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2406.00947) about Medical Self-Supervised Representation Learning  was accepted by MICCAI'24.
-- *2024.04* &nbsp;🎉🎉 Talk at [NVIDIA "AI Medical Innovation and Application Seminar"] in Shanghai.
+- *2024.04* &nbsp;🎉🎉 Talk at NVIDIA "AI Medical Innovation and Application Seminar" in Shanghai.
 - *2023.05* &nbsp;🎉🎉 One [paper](https://openreview.net/forum?id=-HHJZlRpGb) about Domain-Agnostic Representation Learning was accepted by ICLR'23.
