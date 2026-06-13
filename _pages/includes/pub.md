@@ -129,7 +129,7 @@ Fangwei Zhong, Kui Wu, Hai Ci, **Churan Wang**, Hao Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/publication/crossseries2024.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/publication/crossseries2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Enhanced MRI Representation via Cross-series Masking**
@@ -143,7 +143,7 @@ Fangwei Zhong, Kui Wu, Hai Ci, **Churan Wang**, Hao Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/publication/aaai2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/publication/aaai2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Autoregressive Sequence Modeling for 3D Medical Image Representation**
@@ -157,7 +157,7 @@ Siwen Wang, **Churan Wang**, Fei Gao, Lixian Su, Fandong Zhang, Yizhou Wang, Yiz
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2025</div><img src='images/publication/isbi2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2025</div><img src='images/publication/isbi2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Clinical Inspired MRI Lesion Segmentation**
@@ -171,7 +171,7 @@ Lijun Yan, **Churan Wang**, Fangwei Zhong, Yizhou Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Radiology: Imaging Cancer 2025</div><img src='images/publication/radiology2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Radiology: Imaging Cancer 2025</div><img src='images/publication/radiology2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Automatic Segmentation and Molecular Subtype Classification of Breast Cancer Using an MRI-based Deep Learning Framework**
@@ -185,7 +185,7 @@ Xiaoxia Wang, Xiaofei Hu, **Churan Wang**, Hua Yang, Yan Hu, Xiaosong Lan, Yao H
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/publication/hi_evt2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/hievt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Hierarchical Instruction-aware Embodied Visual Tracking**
@@ -194,12 +194,12 @@ Kui Wu, Hao Chen, **Churan Wang**, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangw
 
 ***arXiv preprint, 2025***
 
-[Paper](https://arxiv.org/abs/2505.20710)
-- Study user-centric embodied visual tracking by bridging high-level natural-language instructions and low-level tracking actions with hierarchical instruction-aware policies.
+[Project](https://sites.google.com/view/hievt), [Paper](https://arxiv.org/abs/2505.20710)
+- A hierarchical framework that combines LLM-based semantic-spatial goal aligner and RL-based adaptive goal-aligned policy for user-centric embodied visual tracking.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/publication/vlm_evt2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/publication/vlm_track.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**
@@ -208,26 +208,26 @@ Kui Wu, Shuhang Xu, Hao Chen, **Churan Wang**, Zhoujun Li, Yizhou Wang, Fangwei 
 
 ***IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025***
 
-[Paper](https://doi.org/10.1109/IROS60139.2025.11246600), [arXiv](https://arxiv.org/abs/2505.20718)
-- Enhance embodied visual tracking by using VLMs as self-improving assistants for failure recovery and policy refinement.
+[Project](https://sites.google.com/view/evt-recovery-assistant), [Paper](https://doi.org/10.1109/IROS60139.2025.11246600), [arXiv](https://arxiv.org/abs/2505.20718)
+- A self-improving framework that enhances Embodied Visual Tracking (EVT) with Vision-Language Models (VLMs) to recover tracking from failure.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publication/unrealzoo2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UnrealZoo: Enriching Photo-Realistic Virtual Worlds for Embodied AI**
+**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**
 
-Fangwei Zhong, Kui Wu, **Churan Wang**, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang
+Fangwei Zhong\* &#x2709;, Kui Wu\*, **Churan Wang**, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang
 
-***IEEE/CVF International Conference on Computer Vision (ICCV), 2025***
+***IEEE/CVF International Conference on Computer Vision (ICCV), 2025 <span style="color:red">(Highlight)</span>***
 
-[Paper](https://doi.org/10.1109/ICCV51701.2025.00546)
-- Build rich photo-realistic virtual worlds and assets for scalable embodied AI research and evaluation.
+[Project](http://unrealzoo.site/), [Paper](https://doi.org/10.1109/ICCV51701.2025.00546), [arXiv](https://arxiv.org/abs/2412.20977), [Code ![code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Code+Stars)](https://github.com/UnrealZoo/unrealzoo-gym)
+- A rich collection of photo-realistic 3D virtual worlds built on Unreal Engine, designed to reflect the complexity and variability of the open worlds.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L 2026</div><img src='images/publication/adatracker2026.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/ada_tracker.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**
@@ -237,20 +237,20 @@ Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, **Churan Wang**, Yizhou Wang, Zhoujun 
 ***IEEE Robotics and Automation Letters (RA-L), 2026***
 
 [Paper](https://doi.org/10.1109/LRA.2026.3692075), [arXiv](https://arxiv.org/abs/2604.20305)
-- Learn an adaptive in-context policy for active visual tracking that generalizes across robot embodiments with different dynamics and constraints.
+- An adaptive in-context policy for cross-embodiment active visual tracking, enabling zero-shot generalization via an Embodiment Context Encoder.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publication/cgcr2026.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publication/cgcr2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Clinically-Grounded Counterfactual Reasoning for Medical Video Diagnosis**
 
 Jianzhe Gao, **Churan Wang**, Weiyi Zhang, Jianghua Li, Li-An Li, Wenguan Wang, Yixin Zhu, Yizhou Wang
 
-***arXiv preprint, 2026***
+***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026***
 
-[Paper](https://arxiv.org/abs/2605.26483)
-- Introduce clinically grounded counterfactual reasoning for medical video diagnosis, using clinical priors to reason beyond appearance-only end-to-end recognition.
+[Project](https://gaozzzz.github.io/MedVCR/), [Paper](https://arxiv.org/abs/2605.26483)
+- Introduce MEDVCR, a clinically grounded counterfactual reasoning framework for medical video diagnosis that models disease-state alternatives with clinical priors.
 </div>
 </div>

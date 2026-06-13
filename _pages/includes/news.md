@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.05* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2605.26483) about clinically grounded counterfactual reasoning for medical video diagnosis is available on arXiv.
+- *2026.05* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2605.26483) about clinically grounded counterfactual reasoning for medical video diagnosis was accepted by CVPR'26.
 - *2026.05* &nbsp;🎉🎉 One [paper](https://doi.org/10.1109/LRA.2026.3692075) about cross-embodiment active visual tracking is available online in IEEE RA-L.
 - *2025.10* &nbsp;🎉🎉 One [paper](https://doi.org/10.1109/ICCV51701.2025.00546) about photo-realistic virtual worlds for Embodied AI was accepted by ICCV'25.
 - *2025.10* &nbsp;🎉🎉 One [paper](https://doi.org/10.1109/IROS60139.2025.11246600) about self-improving VLMs for embodied visual tracking was accepted by IROS'25.
