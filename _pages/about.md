@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as Postdoctoral Researcher at Peking University with Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm).
-Before that, I received Ph.D in Data Science from Academy for Advanced Interdisciplinary Studies, Peking University, supervised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm).
+I am currently a Research Engineer at the Center for Data Science in Clinical Medicine, Peking University Third Hospital. Before that, I received my Ph.D. in Data Science from the Academy for Advanced Interdisciplinary Studies, Peking University, and later worked as a Postdoctoral Researcher at the School of Computer Science, Peking University. Both stages were under the supervision of Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm).
 
 My research interests lie in the area of artificial intelligence for medical image diagnosis. My research goal is to design cognitive-inspired medical image diagnostics algorithms, including clinical prior modeling and causal inference and develop efficient, effective, truthful, and robust AI-assistant medical image diagnostics systems. **A key aspect of my research methodology is my dedication to understanding and addressing clinicians’ practical needs. I allocate at least 20% of my time to engaging with clinical practitioners, ensuring my work is grounded in real-clinical challenges and informed by frontline insights.** This collaboration helps bridge the gap between advanced AI techniques and clinical practice, ensuring the AI systems I develop are sensitive to medical diagnostics’ nuances and seamlessly integrate into clinical workflows to enhance healthcare professionals’ capabilities and ultimately benefit patient care. 
 
